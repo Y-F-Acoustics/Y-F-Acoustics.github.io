@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: y-f-acoustics.github.io
-Token: 11eacb0eb34fca640bde42821dd953ba55697edafe016628549ccc4514d0d9ed
